@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.pHeader {
+    text-align: center;
+    color: rgb(218, 23, 23);
+    opacity: 50%;
+    background: black; 
+    width: 600px;
+    float: center;
+    margin: auto;
+    opacity: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.jumbotron {
+	border-radius: 25px;
+    background-color: rgb(15, 59, 6);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+    height: 800px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("https://4.bp.blogspot.com/-P6b9rx9rfN4/XEI6LcoT1XI/AAAAAAAAEbc/JaD390T8MowuafxDYRndjmylx2r3hUUqQCLcBGAs/s1600/Super%2Bfast%2BTrain%2B-%2BIntercity%2Bexpress%2Bhd%2Bwallpaper.jpg");
+}
+
+
+/*
+.wrapper {
+    background-image: url("http://i.imgur.com/BFBYJUV.jpg");
+}
+*/
+
+.table {
+   font-family: 'Roboto', sans-serif;
+
+}
+
+caption {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.panel {
+	border-radius: 25px;
+/*    background-color: #62929E;*/
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+	
+}
+
+.panel-default>.panel-heading{
+	border-radius: 15px 15px 0px 0px;
+	border-style: solid;
+	border-width: 1px;
+	
+}
+
